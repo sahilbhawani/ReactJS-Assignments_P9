@@ -1,0 +1,45 @@
+.card
+{
+    border: 1px solid gray;
+    width : 250px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    padding : 5px; 
+    margin-left: 40px;
+    justify-content: space-between center;
+    float: left;
+}
+
+.card  img
+{
+    width : 65px;
+    height: 65px;
+    border-radius: 100px;
+    padding : 1px;
+    border: 1px solid gray;;
+}
+
+.card img:hover
+{
+    box-shadow: 1px 1px 10px red;  
+}
+
+.name{
+    font-size:  20px;
+}
+
+.designation
+{
+    color : gray;
+    font-size:  12px;
+    margin: 0px;    
+} 
+
+.button{
+    margin-top: 50px;
+}
+
+.star{
+    color: green;
+    font-size: 25px;
+}
